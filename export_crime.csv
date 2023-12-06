@@ -1,7 +1,5 @@
-INCIDENTNEIGHBORHOOD,OFFENSES
-Mt. Oliver Boro,98
-Mt. Oliver Neighborhood,117
-Troy Hill-Herrs Island,252
+Neighborhood,OFFENSES
+Mount Oliver,117
 Ridgemont,293
 Chartiers City,333
 New Homestead,344
@@ -13,7 +11,7 @@ Regent Square,556
 Hays,560
 Arlington Heights,564
 Oakwood,614
-St. Clair,653
+Saint Clair,653
 Esplen,692
 Glen Hazel,766
 Central Northside,786
