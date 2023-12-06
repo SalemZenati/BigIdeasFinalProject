@@ -1,95 +1,99 @@
-Neighborhood,OFFENSES
-Mount Oliver,117
-Ridgemont,293
-Chartiers City,333
-New Homestead,344
-East Carnegie,398
-Swisshelm Park,430
-Summer Hill,515
-Mount Oliver,528
-Regent Square,556
-Hays,560
-Arlington Heights,564
-Oakwood,614
-Saint Clair,653
-Esplen,692
-Glen Hazel,766
-Central Northside,786
-Fairywood,807
-Windgap,874
-Spring Garden,923
-Polish Hill,1068
-Allegheny West,1077
-Duquesne Heights,1155
-South Shore,1239
-West End,1251
-Bon Air,1252
-Terrace Village,1420
-Morningside,1520
-Westwood,1611
-Friendship,1622
-Upper Lawrenceville,1639
-Lincoln Place,1646
-Fineview,1743
-Banksville,1756
-California-Kirkbride,1842
-Stanton Heights,1853
-Upper Hill,1917
-West Oakland,1928
-Beltzhoover,2046
-Troy Hill,2096
-Arlington,2117
-Outside City,2202
-Manchester,2217
-Overbrook,2268
-South Oakland,2366
-Spring Hill-City View,2431
-Lower Lawrenceville,2542
-Point Breeze North,2587
-Elliott,2604
-Bedford Dwellings,2611
-Northview Heights,2617
-Homewood West,2742
-Crafton Heights,2836
-Chateau,2856
-Point Breeze,3028
-Perry North,3125
-Central North Side,3188
-Strip District,3427
-Garfield,3472
-Allegheny Center,3555
-Greenfield,3598
-North Shore,3655
-Larimer,3841
-Squirrel Hill North,4013
-Middle Hill,4046
-Crawford-Roberts,4070
-Perry South,4212
-South Side Slopes,4247
-Golden Triangle/Civic Arena,4278
-Central Lawrenceville,4319
-Highland Park,4484
-North Oakland,4637
-Bluff,4716
-East Hills,4963
-Central Oakland,5125
-Allentown,5183
-Hazelwood,5423
-Marshall-Shadeland,5572
-Beechview,5623
-East Allegheny,5914
-Sheraden,6046
-Brighton Heights,6189
-Knoxville,6306
-Homewood North,6478
-Lincoln-Lemington-Belmar,6728
-Homewood South,7185
-Mount Washington,7558
-Brookline,7614
-Squirrel Hill South,7627
-East Liberty,8251
-Bloomfield,8546
-Shadyside,8572
-Carrick,11690
-South Side Flats,18677
-Central Business District,19380
+,INCIDENTNEIGHBORHOOD,Overall_score
+16,Central Business District,1.0
+78,South Side Flats,0.9637254901960784
+15,Carrick,0.6031991744066048
+74,Shadyside,0.4423116615067079
+9,Bloomfield,0.4409700722394221
+29,East Liberty,0.4257481940144479
+83,Squirrel Hill South,0.3935500515995872
+13,Brookline,0.3928792569659443
+55,Mount Washington,0.38998968008255935
+43,Homewood South,0.37074303405572756
+48,Lincoln-Lemington-Belmar,0.34716202270381835
+42,Homewood North,0.33426212590299276
+45,Knoxville,0.3253869969040248
+12,Brighton Heights,0.3193498452012384
+75,Sheraden,0.31197110423116614
+26,East Allegheny,0.30515995872033025
+7,Beechview,0.2901444788441693
+51,Marshall-Shadeland,0.28751289989680084
+40,Hazelwood,0.27982456140350875
+2,Allentown,0.2674406604747162
+20,Central Oakland,0.2644478844169247
+28,East Hills,0.2560887512899897
+10,Bluff,0.243343653250774
+59,North Oakland,0.2392672858617131
+41,Highland Park,0.23137254901960785
+17,Central Lawrenceville,0.22285861713106295
+37,Golden Triangle/Civic Arena,0.22074303405572757
+79,South Side Slopes,0.21914344685242518
+68,Perry South,0.2173374613003096
+24,Crawford-Roberts,0.21001031991744065
+52,Middle Hill,0.20877192982456141
+82,Squirrel Hill North,0.20706914344685243
+46,Larimer,0.19819401444788443
+60,North Shore,0.18859649122807018
+38,Greenfield,0.18565531475748195
+0,Allegheny Center,0.18343653250773995
+35,Garfield,0.17915376676986583
+86,Strip District,0.17683178534571722
+18,Central North Side,0.16449948400412798
+67,Perry North,0.16124871001031993
+69,Point Breeze,0.1562435500515996
+22,Chateau,0.14736842105263157
+23,Crafton Heights,0.14633642930856552
+44,Homewood West,0.14148606811145512
+61,Northview Heights,0.13503611971104232
+6,Bedford Dwellings,0.1347265221878225
+30,Elliott,0.13436532507739937
+70,Point Breeze North,0.13348813209494323
+49,Lower Lawrenceville,0.13116615067079462
+81,Spring Hill-City View,0.12543859649122807
+76,South Oakland,0.12208462332301341
+66,Overbrook,0.11702786377708978
+50,Manchester,0.11439628482972136
+63,Outside City,0.11362229102167183
+3,Arlington,0.10923632610939113
+90,Troy Hill,0.10815273477812178
+8,Beltzhoover,0.10557275541795666
+95,West Oakland,0.09948400412796697
+92,Upper Hill,0.09891640866873065
+85,Stanton Heights,0.0956140350877193
+14,California-Kirkbride,0.09504643962848297
+5,Banksville,0.09060887512899897
+33,Fineview,0.08993808049535604
+47,Lincoln Place,0.0849329205366357
+93,Upper Lawrenceville,0.0845717234262126
+34,Friendship,0.08369453044375645
+96,Westwood,0.08312693498452012
+53,Morningside,0.0784313725490196
+89,Terrace Village,0.07327141382868937
+11,Bon Air,0.06460268317853457
+94,West End,0.06455108359133127
+77,South Shore,0.06393188854489164
+25,Duquesne Heights,0.05959752321981424
+1,Allegheny West,0.05557275541795666
+71,Polish Hill,0.055108359133126936
+80,Spring Garden,0.04762641898864809
+97,Windgap,0.045098039215686274
+32,Fairywood,0.041640866873065015
+19,Central Northside,0.04055727554179567
+36,Glen Hazel,0.03952528379772962
+31,Esplen,0.035706914344685245
+84,St. Clair,0.03369453044375645
+62,Oakwood,0.03168214654282766
+4,Arlington Heights,0.02910216718266254
+39,Hays,0.02889576883384933
+72,Regent Square,0.02868937048503612
+54,Mount Oliver,0.027244582043343655
+87,Summer Hill,0.026573787409700723
+88,Swisshelm Park,0.02218782249742002
+27,East Carnegie,0.020536635706914344
+65,Outside State,0.01976264189886481
+58,New Homestead,0.017750257997936017
+21,Chartiers City,0.01718266253869969
+73,Ridgemont,0.015118679050567595
+91,Troy Hill-Herrs Island,0.013003095975232198
+64,Outside County,0.01259029927760578
+57,Mt. Oliver Neighborhood,0.006037151702786378
+56,Mt. Oliver Boro,0.005056759545923633
